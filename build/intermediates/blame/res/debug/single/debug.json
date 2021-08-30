@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Azhar\\Downloads\\Stopwatch with Productivity Timer\\Stopwatch with Productivity Timer\\task\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Azhar\\Downloads\\Stopwatch with Productivity Timer\\Stopwatch with Productivity Timer\\task\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azhar\\Downloads\\Stopwatch with Productivity Timer\\Stopwatch with Productivity Timer\\task\\build\\intermediates\\res\\merged\\debug\\layout_dialog_set_time.xml.flat",
+        "source": "C:\\Users\\Azhar\\Downloads\\Stopwatch with Productivity Timer\\Stopwatch with Productivity Timer\\task\\src\\main\\res\\layout\\dialog_set_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azhar\\Downloads\\Stopwatch with Productivity Timer\\Stopwatch with Productivity Timer\\task\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Azhar\\Downloads\\Stopwatch with Productivity Timer\\Stopwatch with Productivity Timer\\task\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azhar\\Downloads\\Stopwatch with Productivity Timer\\Stopwatch with Productivity Timer\\task\\build\\intermediates\\res\\merged\\debug\\layout_dialog_main.xml.flat",
+        "source": "C:\\Users\\Azhar\\Downloads\\Stopwatch with Productivity Timer\\Stopwatch with Productivity Timer\\task\\src\\main\\res\\layout\\dialog_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azhar\\Downloads\\Stopwatch with Productivity Timer\\Stopwatch with Productivity Timer\\task\\build\\intermediates\\res\\merged\\debug\\color_secondary.xml.flat",
+        "source": "C:\\Users\\Azhar\\Downloads\\Stopwatch with Productivity Timer\\Stopwatch with Productivity Timer\\task\\src\\main\\res\\color\\secondary.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azhar\\Downloads\\Stopwatch with Productivity Timer\\Stopwatch with Productivity Timer\\task\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Azhar\\Downloads\\Stopwatch with Productivity Timer\\Stopwatch with Productivity Timer\\task\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azhar\\Downloads\\Stopwatch with Productivity Timer\\Stopwatch with Productivity Timer\\task\\build\\intermediates\\res\\merged\\debug\\layout_dialog_time.xml.flat",
+        "source": "C:\\Users\\Azhar\\Downloads\\Stopwatch with Productivity Timer\\Stopwatch with Productivity Timer\\task\\src\\main\\res\\layout\\dialog_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azhar\\Downloads\\Stopwatch with Productivity Timer\\Stopwatch with Productivity Timer\\task\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Azhar\\Downloads\\Stopwatch with Productivity Timer\\Stopwatch with Productivity Timer\\task\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azhar\\Downloads\\Stopwatch with Productivity Timer\\Stopwatch with Productivity Timer\\task\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Azhar\\Downloads\\Stopwatch with Productivity Timer\\Stopwatch with Productivity Timer\\task\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

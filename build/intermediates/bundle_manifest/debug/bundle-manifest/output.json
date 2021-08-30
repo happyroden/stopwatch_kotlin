@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "org.hyperskill.stopwatch",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "BUNDLE_MANIFEST"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 2,
+        "versionName": "1.1",
+        "outputFile": "Stopwatch_with_Productivity_Timer-task-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "org.hyperskill.stopwatch",
+        "split": "",
+        "minSdkVersion": "21"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.stopwatch.TimerStateUnitTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-08-30T17:21:14" hostname="DESKTOP-AVLUIMM" time="8.165">
+  <properties/>
+  <testcase name="testShouldStopTimerAndResetCountOnResetButtonClick" classname="org.hyperskill.stopwatch.TimerStateUnitTest" time="1.205"/>
+  <testcase name="testShouldCheckTimerInitialValue" classname="org.hyperskill.stopwatch.TimerStateUnitTest" time="0.06"/>
+  <testcase name="testShouldContinueCountOnPressingStartButtonAgain" classname="org.hyperskill.stopwatch.TimerStateUnitTest" time="2.304"/>
+  <testcase name="testShouldStartCountOnStartButtonClick" classname="org.hyperskill.stopwatch.TimerStateUnitTest" time="1.174"/>
+  <testcase name="testShouldIgnorePressingResetButtonAgain" classname="org.hyperskill.stopwatch.TimerStateUnitTest" time="3.422"/>
+  <system-out><![CDATA[[Robolectric] org.hyperskill.stopwatch.TimerStateUnitTest.testShouldStopTimerAndResetCountOnResetButtonClick: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@33c9cc3,android.graphics.HardwareRenderer$DestroyContextRunnable@16b5f7c7)
+[Robolectric] org.hyperskill.stopwatch.TimerStateUnitTest.testShouldCheckTimerInitialValue: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@e193d47,android.graphics.HardwareRenderer$DestroyContextRunnable@3d7da4ca)
+[Robolectric] org.hyperskill.stopwatch.TimerStateUnitTest.testShouldContinueCountOnPressingStartButtonAgain: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@43cb6cd1,android.graphics.HardwareRenderer$DestroyContextRunnable@6fde735c)
+[Robolectric] org.hyperskill.stopwatch.TimerStateUnitTest.testShouldStartCountOnStartButtonClick: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@4de84d84,android.graphics.HardwareRenderer$DestroyContextRunnable@34a7cf53)
+[Robolectric] org.hyperskill.stopwatch.TimerStateUnitTest.testShouldIgnorePressingResetButtonAgain: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@17b7a4af,android.graphics.HardwareRenderer$DestroyContextRunnable@540c4a2a)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

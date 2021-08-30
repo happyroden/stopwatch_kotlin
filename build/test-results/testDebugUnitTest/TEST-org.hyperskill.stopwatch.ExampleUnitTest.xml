@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.stopwatch.ExampleUnitTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-08-30T17:20:51" hostname="DESKTOP-AVLUIMM" time="11.029">
+  <properties/>
+  <testcase name="testShouldCheckTextViewExist" classname="org.hyperskill.stopwatch.ExampleUnitTest" time="0.111"/>
+  <testcase name="testShouldCheckProgressBarColorEachSecond10" classname="org.hyperskill.stopwatch.ExampleUnitTest" time="10.339"/>
+  <testcase name="testShouldCheckProgressBarInvisibilityOnInit" classname="org.hyperskill.stopwatch.ExampleUnitTest" time="0.094"/>
+  <testcase name="testShouldCheckProgressBarVisibilityOnStart" classname="org.hyperskill.stopwatch.ExampleUnitTest" time="0.086"/>
+  <testcase name="testShouldCheckResetButtonExist" classname="org.hyperskill.stopwatch.ExampleUnitTest" time="0.087"/>
+  <testcase name="testShouldCheckResetButtonText" classname="org.hyperskill.stopwatch.ExampleUnitTest" time="0.074"/>
+  <testcase name="testShouldCheckProgressBarInvisibilityOnReset" classname="org.hyperskill.stopwatch.ExampleUnitTest" time="0.094"/>
+  <testcase name="testShouldCheckStartButtonText" classname="org.hyperskill.stopwatch.ExampleUnitTest" time="0.072"/>
+  <testcase name="testShouldCheckStartButtonExist" classname="org.hyperskill.stopwatch.ExampleUnitTest" time="0.071"/>
+  <system-out><![CDATA[[Robolectric] org.hyperskill.stopwatch.ExampleUnitTest.testShouldCheckTextViewExist: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@2afe797a,android.graphics.HardwareRenderer$DestroyContextRunnable@4e9b7f27)
+[Robolectric] org.hyperskill.stopwatch.ExampleUnitTest.testShouldCheckProgressBarColorEachSecond10: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@7ad6392,android.graphics.HardwareRenderer$DestroyContextRunnable@25ec4f4e)
+[Robolectric] org.hyperskill.stopwatch.ExampleUnitTest.testShouldCheckProgressBarInvisibilityOnInit: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@777327b2,android.graphics.HardwareRenderer$DestroyContextRunnable@27713a28)
+[Robolectric] org.hyperskill.stopwatch.ExampleUnitTest.testShouldCheckProgressBarVisibilityOnStart: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@42a8f847,android.graphics.HardwareRenderer$DestroyContextRunnable@7d40582a)
+[Robolectric] org.hyperskill.stopwatch.ExampleUnitTest.testShouldCheckResetButtonExist: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@6f2e5a72,android.graphics.HardwareRenderer$DestroyContextRunnable@574e5b45)
+[Robolectric] org.hyperskill.stopwatch.ExampleUnitTest.testShouldCheckResetButtonText: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@8173b72,android.graphics.HardwareRenderer$DestroyContextRunnable@42532f4d)
+[Robolectric] org.hyperskill.stopwatch.ExampleUnitTest.testShouldCheckProgressBarInvisibilityOnReset: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@148d48fc,android.graphics.HardwareRenderer$DestroyContextRunnable@a944ca5)
+[Robolectric] org.hyperskill.stopwatch.ExampleUnitTest.testShouldCheckStartButtonText: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@72788b36,android.graphics.HardwareRenderer$DestroyContextRunnable@3e93306)
+[Robolectric] org.hyperskill.stopwatch.ExampleUnitTest.testShouldCheckStartButtonExist: sdk=29; resources=BINARY
+Cleaner.create(android.view.ThreadedRenderer@5a005b84,android.graphics.HardwareRenderer$DestroyContextRunnable@5687bc22)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Stopwatch</string>
+    <string name="clear_notifications">CLEAR ALL</string>
+    <string name="startButtonText">Start</string>
+    <string name="resetButtonText">Reset</string>
+    <string name="starting_time">00:00</string>
+    <string name="settings_button">Settings</string>
+    <string name="dialog_time_set_upper_limit">Set upper limit in seconds</string>
+    <string name="channel_name">Notification</string>
+    <string name="channel_description">"line exceeded "</string>
+</resources>
+    <!--<resources>-->
+    <!--    <string name="app_name">Stopwatch</string>-->
+    <!--    <string name="clear_notifications">CLEAR ALL</string>-->
+    <!--    <string name="start_button_description">Start</string>-->
+    <!--    <string name="reset_button_description">Reset</string>-->
+    <!--    <string name="settings_button_description">SETTINGS</string>-->
+    <!--    <string name="dialog_time_set">Dialog 1</string>-->
+    <!--    <string name="dialog_text">Enter time in seconds (or leave the field empty to infinite count):</string>-->
+    <!--    <string name="dialog_tip">Type here</string>-->
+    <!--    <string name="ok">OK</string>-->
+    <!--    <string name="cancel">Cancel</string>-->
+    <!--    <string name="timeHHMM">%1s:%2s</string>-->
+    <!--    <string name="hello_blank_fragment">Hello blank fragment</string>-->
+    <!--    <string name="dialog_key_time">KEY_TIME</string>-->
+    <!--</resources>-->

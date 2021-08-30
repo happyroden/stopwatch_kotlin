@@ -1,0 +1,2 @@
+org/hyperskill/stopwatch/BuildConfig.java
+ org.hyperskill.stopwatch.BuildConfig
